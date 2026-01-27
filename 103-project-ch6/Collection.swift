@@ -6,3 +6,11 @@
 //
 
 import Foundation
+
+var bookTitles: [String] = [
+    "THE WAY HOME",
+    "CAN'T STOP NOW",
+    "NOT MY WAY",
+    "The way Home"
+]
+
